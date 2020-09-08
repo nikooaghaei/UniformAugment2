@@ -1,0 +1,22 @@
+[2020-08-08 02:39:35,794] [Fast AutoAugment] [INFO] augmentation: uniformaugment
+[2020-08-08 02:39:35,795] [Fast AutoAugment] [INFO]
+{
+    "loss_train": 0.3206347934710674,
+    "loss_valid": 0.0,
+    "loss_test": 0.09070698108673096,
+    "top1_train": 0.9688501602564102,
+    "top1_valid": 0.0,
+    "top1_test": 0.9736,
+    "top5_train": 0.9990584935897436,
+    "top5_valid": 0.0,
+    "top5_test": 0.9995,
+    "epoch": 195
+}
+[2020-08-08 02:39:35,795] [Fast AutoAugment] [INFO] elapsed time: 28.397 Hours
+[2020-08-08 02:39:35,795] [Fast AutoAugment] [INFO] top1 error in testset: 0.0264
+[2020-08-08 02:39:35,796] [Fast AutoAugment] [INFO] cifar10_wres28x10_2.pth
+
+real    1703m52.887s
+user    699m55.395s
+sys     1145m56.830s
+

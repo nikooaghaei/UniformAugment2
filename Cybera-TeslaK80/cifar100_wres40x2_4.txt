@@ -1,0 +1,25 @@
+2020-08-14 12:12:39,008] [Fast AutoAugment] [INFO] epoch=200 [train] loss=0.8420 top1=0.8860 [valid] loss=0.0000 top1=0.0000 [test] loss=0.8510 top1=0.7834
+[2020-08-14 12:12:39,013] [Fast AutoAugment] [INFO] done.
+[2020-08-14 12:12:39,014] [Fast AutoAugment] [INFO] model: {'type': 'wresnet40_2'}
+[2020-08-14 12:12:39,014] [Fast AutoAugment] [INFO] augmentation: uniformaugment
+[2020-08-14 12:12:39,014] [Fast AutoAugment] [INFO]
+{
+    "loss_train": 0.8493842183015285,
+    "loss_valid": 0.0,
+    "loss_test": 0.8461639104843139,
+    "top1_train": 0.8829527243589743,
+    "top1_valid": 0.0,
+    "top1_test": 0.7882,
+    "top5_train": 0.9773838141025641,
+    "top5_valid": 0.0,
+    "top5_test": 0.9533,
+    "epoch": 195
+}
+[2020-08-14 12:12:39,014] [Fast AutoAugment] [INFO] elapsed time: 5.076 Hours
+[2020-08-14 12:12:39,015] [Fast AutoAugment] [INFO] top1 error in testset: 0.2118
+[2020-08-14 12:12:39,015] [Fast AutoAugment] [INFO] cifar100_wres40x2_4.pth
+
+real    304m37.108s
+user    290m23.169s
+sys     150m5.164s
+

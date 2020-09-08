@@ -1,0 +1,25 @@
+[2020-08-24 05:41:30,409] [Fast AutoAugment] [INFO] epoch=1800 [train] loss=0.2847 top1=0.9733 [valid] loss=0.0000 top1=0.0000 [test] loss=0.0911 top1=0.9721
+[2020-08-24 05:41:30,416] [Fast AutoAugment] [INFO] done.
+[2020-08-24 05:41:30,416] [Fast AutoAugment] [INFO] model: {'type': 'shakeshake26_2x32d'}
+[2020-08-24 05:41:30,416] [Fast AutoAugment] [INFO] augmentation: uniformaugment
+[2020-08-24 05:41:30,417] [Fast AutoAugment] [INFO]
+{
+    "loss_train": 0.2927625844875971,
+    "loss_valid": 0.0,
+    "loss_test": 0.0907674344778061,
+    "top1_train": 0.971514423076923,
+    "top1_valid": 0.0,
+    "top1_test": 0.9732,
+    "top5_train": 0.9992988782051282,
+    "top5_valid": 0.0,
+    "top5_test": 0.9994,
+    "epoch": 1700
+}
+[2020-08-24 05:41:30,417] [Fast AutoAugment] [INFO] elapsed time: 57.796 Hours
+[2020-08-24 05:41:30,417] [Fast AutoAugment] [INFO] top1 error in testset: 0.0268
+[2020-08-24 05:41:30,417] [Fast AutoAugment] [INFO] cifar10_ss2x96_1.pth
+
+real    3467m48.448s
+user    3136m51.488s
+sys     1498m19.002s
+

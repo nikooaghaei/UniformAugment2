@@ -1,0 +1,25 @@
+[2020-08-14 03:56:02,767] [Fast AutoAugment] [INFO] save model@200 to cifar100_wres40x2_3.pth, err=0.2141
+[2020-08-14 03:56:03,011] [Fast AutoAugment] [INFO] done.
+[2020-08-14 03:56:03,011] [Fast AutoAugment] [INFO] model: {'type': 'wresnet40_2'}
+[2020-08-14 03:56:03,012] [Fast AutoAugment] [INFO] augmentation: uniformaugment
+[2020-08-14 03:56:03,012] [Fast AutoAugment] [INFO]
+{
+    "loss_train": 0.9728233771446424,
+    "loss_valid": 0.0,
+    "loss_test": 0.8197344633102417,
+    "top1_train": 0.8509815705128205,
+    "top1_valid": 0.0,
+    "top1_test": 0.7859,
+    "top5_train": 0.9666466346153846,
+    "top5_valid": 0.0,
+    "top5_test": 0.9546,
+    "epoch": 200
+}
+[2020-08-14 03:56:03,012] [Fast AutoAugment] [INFO] elapsed time: 5.069 Hours
+[2020-08-14 03:56:03,012] [Fast AutoAugment] [INFO] top1 error in testset: 0.2141
+[2020-08-14 03:56:03,012] [Fast AutoAugment] [INFO] cifar100_wres40x2_3.pth
+
+real    304m10.967s
+user    297m9.044s
+sys     148m59.058s
+

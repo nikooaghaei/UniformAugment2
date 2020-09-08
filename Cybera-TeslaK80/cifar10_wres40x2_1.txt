@@ -1,0 +1,20 @@
+
+ss_train": 0.3206422132559312,
+    "loss_valid": 0.0,
+    "loss_test": 0.1228373773753643,
+    "top1_train": 0.947696314102564,
+    "top1_valid": 0.0,
+    "top1_test": 0.9652,
+    "top5_train": 0.9979767628205128,
+    "top5_valid": 0.0,
+    "top5_test": 0.9996,
+    "epoch": 200
+}
+[2020-08-04 04:36:45,027] [Fast AutoAugment] [INFO] elapsed time: 5.292 Hours
+[2020-08-04 04:36:45,027] [Fast AutoAugment] [INFO] top1 error in testset: 0.0348
+[2020-08-04 04:36:45,027] [Fast AutoAugment] [INFO] cifar10_wres40x2_1.pth
+
+real    317m33.358s
+user    348m34.146s
+sys     140m47.277s
+
